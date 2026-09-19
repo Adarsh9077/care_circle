@@ -95,5 +95,5 @@ Fixture data (in-memory, mirrors fixtures.ts)
   service ships; it hasn't been fuzzed against arbitrary garbage input.
 
 ## Freeze / submission commits
-- Freeze commit: `<fill in>`
-- Final submission commit: `<fill in>`
+- Freeze commit: update readme file
+- Final submission commit: update readme file
